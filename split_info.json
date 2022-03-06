@@ -1,4 +1,28 @@
 [
-  { "name": "video1.avi", "split_time": [10, 20, 30] },
-  { "name": "video2.avi", "split_time": [15, 30] }
+  {
+    "name": "video1.avi",
+    "split_time": [
+      [
+        10,
+        20
+      ],
+      [
+        20,
+        30
+      ]
+    ]
+  },
+  {
+    "name": "video2.avi",
+    "split_time": [
+      [
+        15,
+        30
+      ],
+      [
+        45,
+        55
+      ]
+    ]
+  }
 ]
